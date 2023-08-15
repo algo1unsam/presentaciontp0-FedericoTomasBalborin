@@ -19,6 +19,7 @@ Un estudiante normal de una carrera normal en una universidad normal en un país
 Foto de mi persona:
 
 ![yo](https://static.tvtropes.org/pmwiki/pub/images/Steven_Seagal_00231_8426.jpg)
+
 ###Imagen conceptual de como me veré al terminar la carrera.
 
 ------
