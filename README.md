@@ -1,5 +1,5 @@
-# Presentación
-## Estudiante: Federico Balborin
+## Presentación
+# Federico Balborin
 
 Un estudiante normal de una carrera normal en una universidad normal de un país normal.
 <br>Empecé a estudiar programación porque tenía ganas de hacer un fangame de Touhou project desde 0.
