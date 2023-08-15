@@ -10,13 +10,14 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Federico Balborin
 
-Descripción
+Un estudiante normal de una carrera normal en una universidad normal en un país anormal.
+<br>Empecé a estudiar programación porque tenía ganas de hacer un fangame de Touhou project.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://es.wikipedia.org/wiki/Steven_Seagal#/media/Archivo:Steven_Seagal_November_2016.jpg)
 
 Diente de Leon
 
