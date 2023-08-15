@@ -17,7 +17,7 @@ Un estudiante normal de una carrera normal en una universidad normal en un país
 
 Foto de mi persona:
 
-![d](https://es.wikipedia.org/wiki/Steven_Seagal#/media/Archivo:Steven_Seagal_November_2016.jpg)
+![yo](https://static.tvtropes.org/pmwiki/pub/images/Steven_Seagal_00231_8426.jpg)
 
 Diente de Leon
 
