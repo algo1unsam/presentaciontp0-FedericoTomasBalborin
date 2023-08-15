@@ -12,16 +12,15 @@ Ya saben usar git!
 
 ## Estudiante: Federico Balborin
 
-Un estudiante normal de una carrera normal en una universidad normal en un país anormal.
-<br>Empecé a estudiar programación porque tenía ganas de hacer un fangame de Touhou project.
+Un estudiante normal de una carrera normal en una universidad normal en un país anormal.a
+<br>Empecé a estudiar programación porque tenía ganas de hacer un fangame de Touhou project desde 0.
+<br>
 
 Foto de mi persona:
 
 ![yo](https://static.tvtropes.org/pmwiki/pub/images/Steven_Seagal_00231_8426.jpg)
-
-Diente de Leon
+###Imagen conceptual de como me veré al terminar la carrera.
 
 ------
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
